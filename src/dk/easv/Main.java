@@ -15,7 +15,8 @@ public class Main {
             TODO:
                 For each question print the question for the user followed by a list of answers.
                 Use the Scanner-object to ask for an answer.
-                If the answer is correct, show the message: "Well done" otherwise show "Too bad try another question".
+                If the answer is correct, show the message: "Well done" otherwise show "Too bad, try again"
+                and show the question once more.
              */
         }
 
